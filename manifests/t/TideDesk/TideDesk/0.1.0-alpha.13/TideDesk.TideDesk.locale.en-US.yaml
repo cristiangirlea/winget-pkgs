@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 PackageIdentifier: TideDesk.TideDesk
 PackageVersion: 0.1.0-alpha.13
 PackageLocale: en-US
@@ -26,4 +26,4 @@ Tags:
 - audio
 ReleaseNotesUrl: https://github.com/cristiangirlea/tidedesk/releases/tag/v0.1.0-alpha.13
 ManifestType: defaultLocale
-ManifestVersion: 1.9.0
+ManifestVersion: 1.12.0
